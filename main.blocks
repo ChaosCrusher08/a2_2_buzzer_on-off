@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_gesture_event" id="XgLDn2%pqbQJc3V+,/`q" x="0" y="0"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="device_show_leds" id=":~Jr@4[w;?l-:kwY^V)["><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . .
+        `</field></block></statement></block><block type="device_button_event" id="MD+^]m:~BD5RZ*AHTX,6" x="231" y="16"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_print_message" id="vHDeu~Yyg?Jo8Ly_t#eT"><value name="text"><shadow type="text" id=":d`BipbeJk]n@YF{A@}v"><field name="TEXT">Wake up</field></shadow></value><next><block type="device_play_note" id="tkP9pZnMYvoD8sn;7x;r"><value name="note"><shadow type="device_note" id="13NT}HNGC~H_;QEG58Ok"><field name="name">262</field></shadow></value><value name="duration"><shadow type="device_beat" id="0cRqy2mzd,qfTqv4AVfK"><field name="fraction">BeatFraction.Breve</field></shadow></value></block></next></block></statement></block></xml>
